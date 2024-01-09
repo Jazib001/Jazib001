@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jazib001
+- 👋 Hi, I’m Jazib Ali
 - 👀 I’m interested in machine learning, RStudio data analysis, experimental field designs, and genome mapping
 - 🌱 I’m currently learning quantitive genetics, statistics, and advanced plant breeding 
 - 💞️ I’m looking to collaborate on
